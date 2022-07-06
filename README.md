@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h3 align="left">Hi<img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" />! My name is MisterValiant. <br><br><br>You may call me "Valiant" or "Vayant"😊</h3>
+<h3 align="center">Hi<img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" />! My name is MisterValiant. <br><br><br>You may call me "Valiant" or "Vayant"😊</h3>
 
 ###
 
