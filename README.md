@@ -15,7 +15,104 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/MisterValiant/MisterValiant)
+
+
+<br clear="both">
+
+<img align="right" height="150" src="https://64.media.tumblr.com/2ce2f6a0d39353e4660b063d840ad474/c2f6bec49b0a6f70-8c/s540x810/0062c94f2a802770a204929023e3c917530fa99b.gifv"  />
+
+###
+
+<h3 align="center">Hi 👋! My name is MisterValiant. <br><br><br>You may call me "Valiant" or "Vayant"😊</h3>
+
+###
+
+<p align="center">_____________________________________________________________________________________________________________________________________</p>
+
+###
+
+<p align="left"></p>
+
+###
+
+<div align="center">
+  <a href="https://www.youtube.com/c/MisterValiant" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/mistervaliant/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/sarveshgopee/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/Mist3rValiant" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+</div>
+
+###
+
+<p align="left"></p>
+
+###
+
+<p align="center">Github Stats:</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=outrun&locale=en&hide_border=false&username=MisterValiant" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=outrun&hide_border=false&username=MisterValiant" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<p align="left"></p>
+
+###
+
+<p align="center">Languages and Tools:</p>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" width="58" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" width="58" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" width="58" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="42" width="58" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="42" width="58" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="42" width="58" alt="dot-net logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="42" width="58" alt="gimp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="42" width="58" alt="flutter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="42" width="58" alt="dart logo"  />
+</div>
+
+###
+
+<p align="center">______________________________________________________________________________________________________</p>
+
+###
+
+<p align="left"></p>
+
+###
+
+<p align="center">Contributions:</p>
+
+###
+
+<br clear="both">
+
+<img href="https://raw.githubusercontent.com/MisterValiant/MisterValiant/blob/output/snake.svg" alt="Snake animation" />
+
+###
+
+
+
+
+
+<!-- First README.md -->
+<!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/MisterValiant/MisterValiant)
 
 <h1 align="center">Hi 👋, I'm MisterValiant</h1>
 <h3 align="center">You may call me "Valiant" or "Vayant"😊</h3>
@@ -37,7 +134,7 @@ Here are some ideas to get you started:
 <h3 align="left">Support:</h3>
 <!--<p><a href="https://www.buymeacoffee.com/mistervaliant"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mistervaliant" /></a></p><br><br>
 -->
-<p>
+<!-- <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mistervaliant&show_icons=true&locale=en&layout=compact" alt="mistervaliant" /></p>
   
  <br/>
@@ -46,4 +143,4 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mistervaliant&show_icons=true&locale=en" alt="mistervaliant" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mistervaliant&" alt="mistervaliant" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mistervaliant&" alt="mistervaliant" /></p> --> -->
