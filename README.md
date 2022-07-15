@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-<img align="right" height="150" src="https://64.media.tumblr.com/2ce2f6a0d39353e4660b063d840ad474/c2f6bec49b0a6f70-8c/s540x810/0062c94f2a802770a204929023e3c917530fa99b.gifv"  />
+<img align="right" height="150" src="img/tanjiro.webp"  />
 
 ###
 
