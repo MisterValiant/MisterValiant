@@ -71,12 +71,12 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="center">Languages and Tools:</p>
+<p align="center">Languages:</p>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" width="58" alt="javascript logo"  />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" width="58" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" width="58" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" width="58" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="42" width="58" alt="csharp logo"  />
@@ -84,7 +84,15 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="42" width="58" alt="dot-net logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="42" width="58" alt="gimp logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="42" width="58" alt="ionic logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" width="58" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" width="58" alt="react logo"  /> -->
+  <a href="https://skillicons.dev">
+    <!-- <img src="https://skillicons.dev/icons?i=js,html,css,py,java,dotnet,cs,php,jquery," /> -->
+    <img src="https://skillicons.dev/icons?i=js,html,css,py,php,java,cs" />
+  </a>
+</div>
+
+<div align='center'>
+
 </div>
 
 ###
