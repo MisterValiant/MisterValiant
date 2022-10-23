@@ -83,7 +83,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" width="58" alt="react logo"  /> -->
   <a href="https://skillicons.dev">
     <!-- <img src="https://skillicons.dev/icons?i=js,html,css,py,java,dotnet,cs,php,jquery," /> -->
-    <img src="https://skillicons.dev/icons?i=js,html,css,py,php,java,cs" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,php,py,java,cs" />
   </a>
 </div>
 
